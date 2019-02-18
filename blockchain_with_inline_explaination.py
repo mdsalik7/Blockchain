@@ -6,7 +6,7 @@ A web framework or web application framework is a software framework that is des
 development of web applications including web services, web resources, and web APIs. Web frameworks provide a
 standard way to build and deploy web applications.
 
-Reason for using a Web Application Framework for a Blockchan is because we want to build a blockchain that 
+Reason for using a Web Application Framework for a Blockchain is because we want to build a blockchain that 
 can be used by anyone online using some servers.
 
 Web Application Framework I ll be using - Flask 0.12.2
