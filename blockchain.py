@@ -1,4 +1,4 @@
-#Creating a Blockchain On Python Using Web Application Framework, Flask And Testing It On Postman
+#Building a Blockchain On Python Using Web Application Framework Flask And Testing It On Postman
 
 #Getting Started
 
