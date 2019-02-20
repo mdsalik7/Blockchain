@@ -2,6 +2,7 @@
 
 ## To Be Installed -
 Flask -  pip install Flask==0.12.2
+
 Postman - https://www.getpostman.com/
 
 ### What is a Web Application Framework?
@@ -19,16 +20,14 @@ document APIs by allowing users to quickly put together both simple and complex 
 
 ## Results -
 
-# To interact with Blockchain - http://127.0.0.1:5000/(get_chain/mine_block)
+### To interact with Blockchain - http://127.0.0.1:5000/(get_chain/mine_block)
 ![screenshot 6](https://user-images.githubusercontent.com/42892152/53040817-60852780-34a8-11e9-98a6-34effc8103ce.jpg)
 
-# To get Blockchain and mine Genesis block- http://127.0.0.1:5000/get_chain
+### To get Blockchain and mine Genesis block- http://127.0.0.1:5000/get_chain
 ![screenshot 7](https://user-images.githubusercontent.com/42892152/53040899-9c1ff180-34a8-11e9-979f-925d2ec1f7cd.jpg)
 
-# To mine a block - http://127.0.0.1:5000/mine_block
+### To mine a block - http://127.0.0.1:5000/mine_block
 ![screenshot 8](https://user-images.githubusercontent.com/42892152/53040952-b528a280-34a8-11e9-9f3c-d16fd5062a42.jpg)
 
-# Blockchain with all mined blocks - http://127.0.0.1:5000/get_chain
+### Blockchain with all mined blocks - http://127.0.0.1:5000/get_chain
 ![screenshot 9](https://user-images.githubusercontent.com/42892152/53041134-31bb8100-34a9-11e9-9e4f-b2654f774021.jpg)
-
-
